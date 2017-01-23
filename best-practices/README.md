@@ -50,4 +50,8 @@ Ruby
 Javascript
 ----------
 * We agree with most things in the Airbnb guide: https://github.com/airbnb/javascript
-
+* Use eslint for code quality. We recommend setting up some sort of linter with your code editor.
+  - Atom: [linter-eslint](https://github.com/AtomLinter/linter-eslint)
+  - Sublime: [SublimeLinter-eslint](https://github.com/roadhump/SublimeLinter-eslint)
+  - Vim: [syntastic](https://github.com/vim-syntastic/syntastic/tree/master/syntax_checkers/javascript)
+  - Other Editors: http://eslint.org/docs/user-guide/integrations
