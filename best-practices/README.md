@@ -55,3 +55,12 @@ Javascript
   - Sublime: [SublimeLinter-eslint](https://github.com/roadhump/SublimeLinter-eslint)
   - Vim: [syntastic](https://github.com/vim-syntastic/syntastic/tree/master/syntax_checkers/javascript)
   - Other Editors: http://eslint.org/docs/user-guide/integrations
+
+Sass/CSS
+----------
+* Use [Quartz](http://quartz.vhx.tv) atomic classes first. Add custom Sass/CSS styling only as necessary for the design.
+* Use colors from our style guide via Quartz's [Sass variables](http://quartz.vhx.tv/styleguide/all#colors).
+* Avoid nesting beyond three levels - if you find yourself at three levels or more, reconsider your HTML structure/CSS selectors
+* One selector per line, one rule per line
+* Prefer classes over IDs
+* We use the Autoprefixer gem, so don't write out vendor prefixes
