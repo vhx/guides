@@ -4,9 +4,7 @@ The VHX Guides
 Guides on our process, communication, and programming style. Inspired by [thoughtbot/guides][1]
 
 * [Best Practices](./best-practices)
-* [Pull Requests](./pull-requests)
 * [Code Review](./code-review)
-* [Style](./style)
 * [Security](./security)
 
 [1]: https://github.com/thoughtbot/guides
